@@ -1,0 +1,7 @@
+{
+  "name": "Blank_buttonclick",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
